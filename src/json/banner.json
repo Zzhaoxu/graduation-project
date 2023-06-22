@@ -1,0 +1,19 @@
+{
+  "banner": [
+    {
+      "id": "0",
+      "url": "cloud://prowaimai-0gjxo97if0659c49.7072-prowaimai-0gjxo97if0659c49-1301433395/bs_UI/home/快速问诊@2x.png",
+      "info": "快速问诊"
+    },
+    {
+      "id": "1",
+      "url": "cloud://prowaimai-0gjxo97if0659c49.7072-prowaimai-0gjxo97if0659c49-1301433395/bs_UI/home/药品闪送@2x.png",
+      "info": "药品闪送"
+    },
+    {
+      "id": "2",
+      "url": "cloud://prowaimai-0gjxo97if0659c49.7072-prowaimai-0gjxo97if0659c49-1301433395/bs_UI/icon/banner12@2x.png",
+      "info": "养生课堂"
+    }
+  ]
+}

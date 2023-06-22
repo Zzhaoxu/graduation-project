@@ -1,0 +1,103 @@
+{
+  "pages": [
+    "pages/firstpage/main",
+    "pages/index/main",
+    "pages/medicalInfo/main",
+    
+    
+    
+    
+    "pages/previsit/main",
+    
+    
+    "pages/addDoctor/main",
+    "pages/resultInfo/main",
+    "pages/office/main",
+    "pages/emptyOrder/main",
+    
+    "pages/visitResult/main",
+    "pages/register/main",
+    "pages/introduce/main",
+    "pages/guide/main",
+    "pages/logs/main",
+    "pages/about/main",
+    "pages/counter/main",
+    "pages/sinkness/main",
+    "pages/travel/main",
+    "pages/share/main",
+    "pages/speakSpace/main",
+    "pages/doctor/main",
+    "pages/yqmap/main"
+  ],
+  "usingComponents": {
+    "van-button": "/static/vantweapp/button/index",
+    "van-card": "/static/vantweapp/card/index",
+    "van-checkbox": "/static/vantweapp/checkbox/index",
+    "van-checkbox-group": "/static/vantweapp/checkbox-group/index",
+    "van-popup": "/static/vantweapp/popup/index",
+    "van-cell": "/static/vantweapp/cell/index",
+    "van-area":"/static/vantweapp/area/index",
+    "van-empty":"/static/vantweapp/empty/index",
+    "van-toast":"/static/vantweapp/toast/index",
+    "van-notice-bar":"/static/vantweapp/notice-bar/index",
+    "van-notify":"/static/vantweapp/notify/index",
+    "van-field":"/static/vantweapp/field/index",
+    "van-dialog":"/static/vantweapp/dialog/index",
+    "van-picker":"/static/vantweapp/picker/index",
+    "van-picker-column":"/static/vantweapp/picker-column/index",
+    "van-datetime-picker":"/static/vantweapp/datetime-picker/index"      
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/main",
+        "iconPath": "static/tabs/home@2x.png",
+        "selectedIconPath": "static/tabs/home_s@2x.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/logs/main",
+        "iconPath": "static/tabs/my@2x.png",
+        "selectedIconPath": "static/tabs/my_s@2x.png"
+      },
+      {
+        "text": "关于",
+        "pagePath": "pages/about/main",
+        "iconPath": "static/tabs/find@2x.png",
+        "selectedIconPath": "static/tabs/find_s@2x.png"
+      }
+    ],
+    "items": [
+      {
+        "name": "首页",
+        "pagePath": "pages/index/main",
+        "icon": "static/tabs/home.png",
+        "activeIcon": "static/tabs/home-active.png"
+      },
+      {
+        "name": "我的",
+        "pagePath": "pages/logs/main",
+        "icon": "static/tabs/orders.png",
+        "activeIcon": "static/tabs/orders-active.png"
+      },
+      {
+        "name": "关于",
+        "pagePath": "pages/about/main",
+        "icon": "static/tabs/find@2x.png",
+        "activeIcon": "static/tabs/find_s@2x.png"
+      }
+    ],
+    "position": "bottom"
+  }
+}

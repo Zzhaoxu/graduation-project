@@ -1,0 +1,40 @@
+{
+  "commonUrl": "cloud://prowaimai-0gjxo97if0659c49.7072-prowaimai-0gjxo97if0659c49-1301433395/bs_UI/my",
+  "my": [
+    {
+      "id": "0",
+      "url": "/我的问诊@2x.png",
+      "info": "我的问诊"
+    },
+    {
+      "id": "1",
+      "url": "/我的医生@2x.png",
+      "info": "我的医生"
+    },
+    {
+      "id": "2",
+      "url": "/我的体检@2x.png",
+      "info": "我的体检"
+    },
+    {
+      "id": "3",
+      "url": "/我的用药@2x.png",
+      "info": "我的用药"
+    },
+    {
+      "id": "4",
+      "url": "/信息@2x.png",
+      "info": "信息"
+    },
+    {
+      "id": "5",
+      "url": "/设置@2x.png",
+      "info": "设置"
+    },
+    {
+      "id": "6",
+      "url": "/关于@2x.png",
+      "info": "关于"
+    }
+  ]
+}

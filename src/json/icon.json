@@ -1,0 +1,75 @@
+{
+  "commonUrl": "cloud://prowaimai-0gjxo97if0659c49.7072-prowaimai-0gjxo97if0659c49-1301433395/bs_UI/home",
+  "icon": [
+    {
+      "id": "0",
+      "url": "/医师讲堂@2x.png",
+      "info": "医师讲堂",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "1",
+      "url": "/医疗美容@2x.png",
+      "info": "医疗美容",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "2",
+      "url": "/名医义诊@2x.png",
+      "info": "名医义诊",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "3",
+      "url": "/妈妈讲堂@2x.png",
+      "info": "妈妈讲堂",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "4",
+      "url": "/孕期管家@2x.png",
+      "info": "孕期管家",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "5",
+      "url": "/预约挂号@2x.png",
+      "info": "预约挂号",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "6",
+      "url": "/急救大全@2x.png",
+      "info": "急救大全",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "7",
+      "url": "/电话急诊@2x.png",
+      "info": "电话急诊",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "8",
+      "url": "/疾病查询@2x.png",
+      "info": "疾病查询",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    },
+    {
+      "id": "9",
+      "url": "/肺炎咨询@2x.png",
+      "info": "肺炎咨询",
+      "name":"teach",
+      "detailUrl": "/pages/counter/main"
+    }
+  ]
+}
